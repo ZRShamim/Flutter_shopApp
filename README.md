@@ -1,4 +1,4 @@
-# shop_app
+# shop_app(with firbase)
 
 A new Flutter project.
 
